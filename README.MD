@@ -29,7 +29,6 @@ dependencies {
 ```
 
 </details>
-
 <details><summary><h3>Gradle</h3></summary>
 
 ```groovy
@@ -43,7 +42,6 @@ dependencies {
 ```
 
 </details>
-
 <details><summary><h3>Maven</h3></summary>
 
 ```xml
