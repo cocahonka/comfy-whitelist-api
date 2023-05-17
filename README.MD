@@ -56,6 +56,7 @@ dependencies {
     <groupId>com.github.cocahonka</groupId>
     <artifactId>comfy-whitelist-api</artifactId>
     <version>1.0.0</version>
+    <scope>provided</scope>
 </dependency>
 ```
 
