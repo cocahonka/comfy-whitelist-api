@@ -125,4 +125,4 @@ Whether you want to add new features, improve documentation, or fix bugs, your c
 
 ## License
 
-ComfyWhitelistAPI is licensed under [LICENSE](LICENSE). For more information, see the LICENSE file in this repository.
+ComfyWhitelistAPI is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more information.
